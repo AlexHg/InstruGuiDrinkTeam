@@ -1,0 +1,27 @@
+D:\Escritorio\PicWinUSB\PicWinUSB\PicWinUSB_SRC\PicWinUSB_App_SRC\PicWinUSB\bin\Debug\ESCOM-IPN (PIC-WinUSB).exe
+D:\Escritorio\PicWinUSB\PicWinUSB\PicWinUSB_SRC\PicWinUSB_App_SRC\PicWinUSB\bin\Debug\ESCOM-IPN (PIC-WinUSB).pdb
+D:\Escritorio\PicWinUSB\PicWinUSB\PicWinUSB_SRC\PicWinUSB_App_SRC\PicWinUSB\obj\Debug\ResolveAssemblyReference.cache
+D:\Escritorio\PicWinUSB\PicWinUSB\PicWinUSB_SRC\PicWinUSB_App_SRC\PicWinUSB\obj\Debug\PicWinUSB.PicWinUSB.resources
+D:\Escritorio\PicWinUSB\PicWinUSB\PicWinUSB_SRC\PicWinUSB_App_SRC\PicWinUSB\obj\Debug\PicWinUSB.Properties.Resources.resources
+D:\Escritorio\PicWinUSB\PicWinUSB\PicWinUSB_SRC\PicWinUSB_App_SRC\PicWinUSB\obj\Debug\ResGen.read.1.tlog
+D:\Escritorio\PicWinUSB\PicWinUSB\PicWinUSB_SRC\PicWinUSB_App_SRC\PicWinUSB\obj\Debug\ResGen.write.1.tlog
+D:\Escritorio\PicWinUSB\PicWinUSB\PicWinUSB_SRC\PicWinUSB_App_SRC\PicWinUSB\obj\Debug\ESCOM-IPN (PIC-WinUSB).exe
+D:\Escritorio\PicWinUSB\PicWinUSB\PicWinUSB_SRC\PicWinUSB_App_SRC\PicWinUSB\obj\Debug\ESCOM-IPN (PIC-WinUSB).pdb
+C:\Users\Fernando\Desktop\4to semestre\Instrumentación\PicWinUSB\PicWinUSB_SRC\PicWinUSB_App_SRC\PicWinUSB\obj\Debug\ESCOM-IPN (PIC-WinUSB).exe
+C:\Users\Fernando\Desktop\4to semestre\Instrumentación\PicWinUSB\PicWinUSB_SRC\PicWinUSB_App_SRC\PicWinUSB\obj\Debug\ESCOM-IPN (PIC-WinUSB).pdb
+C:\Users\Fernando\Desktop\4to semestre\Instrumentación\PicWinUSB\PicWinUSB_SRC\PicWinUSB_App_SRC\PicWinUSB\bin\Debug\ESCOM-IPN (PIC-WinUSB).exe
+C:\Users\Fernando\Desktop\4to semestre\Instrumentación\PicWinUSB\PicWinUSB_SRC\PicWinUSB_App_SRC\PicWinUSB\bin\Debug\ESCOM-IPN (PIC-WinUSB).pdb
+C:\Users\Fernando\Desktop\4to semestre\Instrumentación\PicWinUSB\PicWinUSB_SRC\PicWinUSB_App_SRC\PicWinUSB\obj\Debug\PicWinUSB.PicWinUSB.resources
+C:\Users\Fernando\Desktop\4to semestre\Instrumentación\PicWinUSB\PicWinUSB_SRC\PicWinUSB_App_SRC\PicWinUSB\obj\Debug\PicWinUSB.Properties.Resources.resources
+C:\Users\Fernando\Desktop\4to semestre\Instrumentación\PicWinUSB\PicWinUSB_SRC\PicWinUSB_App_SRC\PicWinUSB\obj\Debug\PicWinUSB.csproj.GenerateResource.Cache
+C:\Users\Fernando\Desktop\4to semestre\Instrumentación\PicWinUSB\PicWinUSB_SRC\PicWinUSB_App_SRC\PicWinUSB\bin\Debug\ESCOM-IPN (PIC-WinUSB).exe.config
+C:\Users\Fernando\Desktop\4to semestre\Instrumentación\PicWinUSB\PicWinUSB_SRC\PicWinUSB_App_SRC\PicWinUSB\obj\Debug\PicWinUSB.csprojResolveAssemblyReference.cache
+C:\Users\alexx\Desktop\PicWinUSB\PicWinUSB_SRC\PicWinUSB_App_SRC\PicWinUSB\bin\Debug\ESCOM-IPN (PIC-WinUSB).exe.config
+C:\Users\alexx\Desktop\PicWinUSB\PicWinUSB_SRC\PicWinUSB_App_SRC\PicWinUSB\bin\Debug\ESCOM-IPN (PIC-WinUSB).exe
+C:\Users\alexx\Desktop\PicWinUSB\PicWinUSB_SRC\PicWinUSB_App_SRC\PicWinUSB\bin\Debug\ESCOM-IPN (PIC-WinUSB).pdb
+C:\Users\alexx\Desktop\PicWinUSB\PicWinUSB_SRC\PicWinUSB_App_SRC\PicWinUSB\obj\Debug\PicWinUSB.csprojResolveAssemblyReference.cache
+C:\Users\alexx\Desktop\PicWinUSB\PicWinUSB_SRC\PicWinUSB_App_SRC\PicWinUSB\obj\Debug\PicWinUSB.PicWinUSB.resources
+C:\Users\alexx\Desktop\PicWinUSB\PicWinUSB_SRC\PicWinUSB_App_SRC\PicWinUSB\obj\Debug\PicWinUSB.Properties.Resources.resources
+C:\Users\alexx\Desktop\PicWinUSB\PicWinUSB_SRC\PicWinUSB_App_SRC\PicWinUSB\obj\Debug\PicWinUSB.csproj.GenerateResource.Cache
+C:\Users\alexx\Desktop\PicWinUSB\PicWinUSB_SRC\PicWinUSB_App_SRC\PicWinUSB\obj\Debug\ESCOM-IPN (PIC-WinUSB).exe
+C:\Users\alexx\Desktop\PicWinUSB\PicWinUSB_SRC\PicWinUSB_App_SRC\PicWinUSB\obj\Debug\ESCOM-IPN (PIC-WinUSB).pdb
